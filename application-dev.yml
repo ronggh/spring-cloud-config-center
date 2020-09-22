@@ -1,2 +1,5 @@
-config: 
-  info: From master, application-dev, version = 1
+server:
+  port: 3355
+spring:
+  application:
+    name: cloud-config-client
